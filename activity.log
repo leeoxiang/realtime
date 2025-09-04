@@ -5768,3 +5768,4 @@ Commit on 2025-09-03 13:18:55: Add feature
 Commit on 2025-09-04 23:53:47: Update gitignore
 Commit on 2025-09-04 14:47:07: Update routes
 Commit on 2025-09-04 11:31:33: Update API
+Commit on 2025-09-04 22:26:26: Fix CORS issue
